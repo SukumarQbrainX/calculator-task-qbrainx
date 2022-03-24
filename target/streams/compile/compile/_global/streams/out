@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mD:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala:12:34: identifier expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  def multiply(n1: Int, n2: Int ,): Int = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala:43:1: ':' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
