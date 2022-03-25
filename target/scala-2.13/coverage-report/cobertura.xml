@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage 
+line-rate="0.90" lines-valid="79" lines-covered="71" branches-valid="24" branches-covered="20" branch-rate="0.83" complexity="0" version="1.0" timestamp="1648183773801">
+    <sources>
+        <source>--source</source>
+        <source>D:/scala/scala-test-session-source-code/Task Calculator Qbrainx/src/main/scala</source>
+    </sources>
+    <packages>
+        <package name="com.qbrainx.demo" line-rate="0.90" branch-rate="0.83" complexity="0">
+            <classes>
+                <class 
+                name="com.qbrainx.demo.Calculator" filename="com/qbrainx/demo/Calculator.scala" line-rate="0.90" branch-rate="0.83" complexity="0">
+                    <methods>
+                        <method name="com.qbrainx.demo/Calculator/subtract" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="19" hits="1" branch="false"/>
+                                <line number="17" hits="1" branch="false"/>
+                                <line number="19" hits="1" branch="false"/>
+                                <line number="17" hits="1" branch="false"/>
+                                <line number="17" hits="1" branch="false"/>
+                                <line number="19" hits="1" branch="false"/>
+                                <line number="17" hits="1" branch="false"/>
+                                <line number="19" hits="1" branch="false"/>
+                                <line number="17" hits="1" branch="false"/>
+                                <line number="17" hits="1" branch="false"/>
+                                <line number="18" hits="1" branch="false"/>
+                                <line number="17" hits="1" branch="false"/>
+                                <line number="19" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="com.qbrainx.demo/Calculator/add" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="11" hits="1" branch="false"/>
+                                <line number="12" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                                <line number="12" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                                <line number="12" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                                <line number="12" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                                <line number="12" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="com.qbrainx.demo/Calculator/multiply" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="24" hits="1" branch="false"/>
+                                <line number="26" hits="1" branch="false"/>
+                                <line number="24" hits="1" branch="false"/>
+                                <line number="26" hits="1" branch="false"/>
+                                <line number="24" hits="1" branch="false"/>
+                                <line number="25" hits="1" branch="false"/>
+                                <line number="26" hits="1" branch="false"/>
+                                <line number="24" hits="1" branch="false"/>
+                                <line number="24" hits="1" branch="false"/>
+                                <line number="26" hits="1" branch="false"/>
+                                <line number="24" hits="1" branch="false"/>
+                                <line number="26" hits="1" branch="false"/>
+                                <line number="24" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method 
+                        name="com.qbrainx.demo/Calculator/percentage" signature="()V" line-rate="0.69" branch-rate="0.50" complexity="0">
+                            <lines>
+                                <line number="52" hits="0" branch="false"/>
+                                <line number="50" hits="1" branch="false"/>
+                                <line number="50" hits="0" branch="false"/>
+                                <line number="51" hits="1" branch="false"/>
+                                <line number="50" hits="1" branch="false"/>
+                                <line number="50" hits="1" branch="false"/>
+                                <line number="52" hits="0" branch="false"/>
+                                <line number="52" hits="1" branch="false"/>
+                                <line number="50" hits="0" branch="false"/>
+                                <line number="52" hits="1" branch="false"/>
+                                <line number="50" hits="1" branch="false"/>
+                                <line number="50" hits="1" branch="false"/>
+                                <line number="52" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method name="com.qbrainx.demo/Calculator/divide" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="33" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="33" hits="1" branch="false"/>
+                                <line number="33" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="33" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="33" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="com.qbrainx.demo/Calculator/log" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="46" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="com.qbrainx.demo/Calculator/modulo" signature="()V" line-rate="0.69" branch-rate="0.50" complexity="0">
+                            <lines>
+                                <line number="38" hits="1" branch="false"/>
+                                <line number="40" hits="0" branch="false"/>
+                                <line number="38" hits="1" branch="false"/>
+                                <line number="38" hits="0" branch="false"/>
+                                <line number="40" hits="1" branch="false"/>
+                                <line number="40" hits="1" branch="false"/>
+                                <line number="38" hits="1" branch="false"/>
+                                <line number="38" hits="1" branch="false"/>
+                                <line number="40" hits="1" branch="false"/>
+                                <line number="39" hits="1" branch="false"/>
+                                <line number="40" hits="0" branch="false"/>
+                                <line number="38" hits="1" branch="false"/>
+                                <line number="38" hits="0" branch="false"/>
+                            </lines>
+                        </method>
+                    </methods>
+                    <lines>
+                        <line number="19" hits="1" branch="false"/>
+                        <line number="52" hits="0" branch="false"/>
+                        <line number="50" hits="1" branch="false"/>
+                        <line number="38" hits="1" branch="false"/>
+                        <line number="33" hits="1" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="40" hits="0" branch="false"/>
+                        <line number="38" hits="1" branch="false"/>
+                        <line number="17" hits="1" branch="false"/>
+                        <line number="11" hits="1" branch="false"/>
+                        <line number="26" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="19" hits="1" branch="false"/>
+                        <line number="50" hits="0" branch="false"/>
+                        <line number="12" hits="1" branch="false"/>
+                        <line number="51" hits="1" branch="false"/>
+                        <line number="38" hits="0" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                        <line number="26" hits="1" branch="false"/>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="17" hits="1" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="40" hits="1" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="17" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="50" hits="1" branch="false"/>
+                        <line number="40" hits="1" branch="false"/>
+                        <line number="38" hits="1" branch="false"/>
+                        <line number="50" hits="1" branch="false"/>
+                        <line number="38" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="33" hits="1" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="12" hits="1" branch="false"/>
+                        <line number="52" hits="0" branch="false"/>
+                        <line number="19" hits="1" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                        <line number="17" hits="1" branch="false"/>
+                        <line number="52" hits="1" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="50" hits="0" branch="false"/>
+                        <line number="33" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="19" hits="1" branch="false"/>
+                        <line number="25" hits="1" branch="false"/>
+                        <line number="40" hits="1" branch="false"/>
+                        <line number="12" hits="1" branch="false"/>
+                        <line number="26" hits="1" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="17" hits="1" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                        <line number="39" hits="1" branch="false"/>
+                        <line number="52" hits="1" branch="false"/>
+                        <line number="50" hits="1" branch="false"/>
+                        <line number="40" hits="0" branch="false"/>
+                        <line number="38" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="50" hits="1" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                        <line number="26" hits="1" branch="false"/>
+                        <line number="17" hits="1" branch="false"/>
+                        <line number="12" hits="1" branch="false"/>
+                        <line number="38" hits="0" branch="false"/>
+                        <line number="18" hits="1" branch="false"/>
+                        <line number="33" hits="1" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="12" hits="1" branch="false"/>
+                        <line number="52" hits="1" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                        <line number="26" hits="1" branch="false"/>
+                        <line number="46" hits="1" branch="false"/>
+                        <line number="17" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="33" hits="1" branch="false"/>
+                        <line number="19" hits="1" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                    </lines>
+</class>
+            </classes>
+        </package>
+    </packages>
+</coverage>

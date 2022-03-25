@@ -1,0 +1,1363 @@
+# Coverage data, format version: 2.0
+# Statement data:
+# - id
+# - source path
+# - package name
+# - class name
+# - class type (Class, Object or Trait)
+# - full class name
+# - method name
+# - start offset
+# - end offset
+# - line number
+# - symbol name
+# - tree name
+# - is branch
+# - invocations count
+# - is ignored
+# - description (can be multi-line)
+# '' sign
+# ------------------------------------------
+1
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+141
+142
+10
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+2
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+146
+151
+10
+scala.Int.<
+Apply
+false
+0
+false
+b.<(0)
+
+3
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+137
+151
+10
+scala.Boolean.||
+Apply
+false
+0
+false
+a.<(0).||(b.<(0))
+
+4
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+153
+154
+10
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+5
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+153
+154
+10
+<nosymbol>
+Block
+true
+0
+false
+0
+
+6
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+133
+133
+10
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+7
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+133
+133
+10
+<nosymbol>
+Block
+true
+0
+false
+()
+
+8
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+173
+178
+11
+scala.Int.+
+Apply
+false
+0
+false
+a.+(b)
+
+9
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+188
+198
+12
+scala.Int.<
+Apply
+false
+0
+false
+result.<(0)
+
+10
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+200
+201
+12
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+11
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+200
+201
+12
+<nosymbol>
+Block
+true
+0
+false
+0
+
+12
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+184
+184
+12
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+13
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+add
+184
+184
+12
+<nosymbol>
+Block
+true
+0
+false
+()
+
+14
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+275
+276
+17
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+15
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+280
+285
+17
+scala.Int.<
+Apply
+false
+0
+false
+b.<(0)
+
+16
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+271
+285
+17
+scala.Boolean.||
+Apply
+false
+0
+false
+a.<(0).||(b.<(0))
+
+17
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+287
+288
+17
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+18
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+287
+288
+17
+<nosymbol>
+Block
+true
+0
+false
+0
+
+19
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+267
+267
+17
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+20
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+267
+267
+17
+<nosymbol>
+Block
+true
+0
+false
+()
+
+21
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+307
+312
+18
+scala.Int.-
+Apply
+false
+0
+false
+a.-(b)
+
+22
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+322
+332
+19
+scala.Int.<
+Apply
+false
+0
+false
+result.<(0)
+
+23
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+334
+335
+19
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+24
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+334
+335
+19
+<nosymbol>
+Block
+true
+0
+false
+0
+
+25
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+318
+318
+19
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+26
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+subtract
+318
+318
+19
+<nosymbol>
+Block
+true
+0
+false
+()
+
+27
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+409
+410
+24
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+28
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+414
+419
+24
+scala.Int.<
+Apply
+false
+0
+false
+b.<(0)
+
+29
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+405
+419
+24
+scala.Boolean.||
+Apply
+false
+0
+false
+a.<(0).||(b.<(0))
+
+30
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+421
+422
+24
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+31
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+421
+422
+24
+<nosymbol>
+Block
+true
+0
+false
+0
+
+32
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+401
+401
+24
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+33
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+401
+401
+24
+<nosymbol>
+Block
+true
+0
+false
+()
+
+34
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+441
+446
+25
+scala.Int.*
+Apply
+false
+0
+false
+a.*(b)
+
+35
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+456
+466
+26
+scala.Int.<
+Apply
+false
+0
+false
+result.<(0)
+
+36
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+468
+469
+26
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+37
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+468
+469
+26
+<nosymbol>
+Block
+true
+0
+false
+0
+
+38
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+452
+452
+26
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+39
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+multiply
+452
+452
+26
+<nosymbol>
+Block
+true
+0
+false
+()
+
+40
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+550
+551
+31
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+41
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+555
+560
+31
+scala.Double.<
+Apply
+false
+0
+false
+b.<(0)
+
+42
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+546
+560
+31
+scala.Boolean.||
+Apply
+false
+0
+false
+a.<(0).||(b.<(0))
+
+43
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+562
+563
+31
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+44
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+562
+563
+31
+<nosymbol>
+Block
+true
+0
+false
+0
+
+45
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+542
+542
+31
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+46
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+542
+542
+31
+<nosymbol>
+Block
+true
+0
+false
+()
+
+47
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+582
+587
+32
+scala.Double./
+Apply
+false
+0
+false
+a./(b)
+
+48
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+597
+607
+33
+scala.Double.<
+Apply
+false
+0
+false
+result.<(0)
+
+49
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+609
+610
+33
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+50
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+609
+610
+33
+<nosymbol>
+Block
+true
+0
+false
+0
+
+51
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+593
+593
+33
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+52
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+divide
+593
+593
+33
+<nosymbol>
+Block
+true
+0
+false
+()
+
+53
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+682
+683
+38
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+54
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+687
+692
+38
+scala.Int.<
+Apply
+false
+0
+false
+b.<(0)
+
+55
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+678
+692
+38
+scala.Boolean.||
+Apply
+false
+0
+false
+a.<(0).||(b.<(0))
+
+56
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+694
+695
+38
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+57
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+694
+695
+38
+<nosymbol>
+Block
+true
+0
+false
+0
+
+58
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+674
+674
+38
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+59
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+674
+674
+38
+<nosymbol>
+Block
+true
+0
+false
+()
+
+60
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+714
+719
+39
+scala.Int.%
+Apply
+false
+0
+false
+a.%(b)
+
+61
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+729
+739
+40
+scala.Int.<
+Apply
+false
+0
+false
+result.<(0)
+
+62
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+741
+742
+40
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+63
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+741
+742
+40
+<nosymbol>
+Block
+true
+0
+false
+0
+
+64
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+725
+725
+40
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+65
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+modulo
+725
+725
+40
+<nosymbol>
+Block
+true
+0
+false
+()
+
+66
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+log
+792
+803
+46
+java.lang.Math.log
+Apply
+false
+0
+false
+java.lang.Math.log(a)
+
+67
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+859
+860
+50
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+68
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+864
+868
+50
+scala.Double.<
+Apply
+false
+0
+false
+n2.<(0)
+
+69
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+856
+868
+50
+scala.Boolean.||
+Apply
+false
+0
+false
+n1.<(0).||(n2.<(0))
+
+70
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+870
+871
+50
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+71
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+870
+871
+50
+<nosymbol>
+Block
+true
+0
+false
+0
+
+72
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+853
+853
+50
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+73
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+853
+853
+50
+<nosymbol>
+Block
+true
+0
+false
+()
+
+74
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+889
+904
+51
+scala.Double.*
+Apply
+false
+0
+false
+100./(n2).*(n1)
+
+75
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+913
+923
+52
+scala.Double.<
+Apply
+false
+0
+false
+result.<(0)
+
+76
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+925
+926
+52
+<nosymbol>
+Literal
+false
+0
+false
+0
+
+77
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+925
+926
+52
+<nosymbol>
+Block
+true
+0
+false
+0
+
+78
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+909
+909
+52
+<nosymbol>
+Literal
+false
+0
+false
+()
+
+79
+D:\scala\scala-test-session-source-code\Task Calculator Qbrainx\src\main\scala\com\qbrainx\demo\Calculator.scala
+com.qbrainx.demo
+Calculator
+Object
+com.qbrainx.demo.Calculator
+percentage
+909
+909
+52
+<nosymbol>
+Block
+true
+0
+false
+()
+
