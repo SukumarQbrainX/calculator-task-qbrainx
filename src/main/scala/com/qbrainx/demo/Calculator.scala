@@ -1,43 +1,56 @@
 package com.qbrainx.demo
 
+
+import java.lang.Math
+
 object Calculator  extends App {
 
 
-  def add(n1: Int, n2: Int): Int ={
-    n1 + n2
-  }
-  def subtract(n1: Int, n2: Int): Int = {
-    n1 - n2
-  }
-  def multiply(n1: Int, n2: Int ): Int = {
-    n1*n2
-  }
-  def divide(n1: Double, n2: Double): Double = {
-
-    n1/n2
-  }
-  def modulo(n1:Int , n2:Int) = {
-
-    n1%n2
+  def add(a: Int, b: Int): Int = {
+    if (a < 0 || b < 0) 0
+    val result = a + b
+    if (result < 0) 0
+    result
   }
 
-
-  println("Enter the first number: ");
-  val n1: Int = scala.io.StdIn.readLine.toInt
-  println("Enter the second number:")
-  val n2: Int = scala.io.StdIn.readLine.toInt
-
-  println("Select the order of operation:")
-  val operator = scala.io.StdIn.readLine
-
-  operator match {
-
-    case "add"=> println( n1 + n2)
-    case "subtract"=> println(n1 - n2 )
-    case "multiply"=> println(n1 * n2 )
-    case "divide"=> println(n1 / n2 )
-    case "modulo"=> println(n1 % n2 )
-    case _=> println("Invalid operation")
+  def subtract(a: Int, b: Int): Int = {
+    if (a < 0 || b < 0) 0
+    val result = a - b
+    if (result < 0) 0
+    result
   }
+
+  def multiply(a: Int, b: Int): Int = {
+    if (a < 0 || b < 0) 0
+    val result = a * b
+    if (result < 0) 0
+    result
+  }
+
+  def divide(a: Double, b: Double): Double = {
+    if (a < 0 || b < 0) 0
+    val result = a / b
+    if (result < 0) 0
+    result
+  }
+
+  def modulo(a: Int, b: Int): Int = {
+    if (a < 0 || b < 0) 0
+    val result = a % b
+    if (result < 0) 0
+    result
+  }
+
+  def log(a:Double ) ={
+
+  Math.log(a)
+
+  }
+def percentage(n1:Double,n2:Double)={
+  if(n1<0 || n2<0) 0
+  val result = ((100 / n2) * n1)
+  if (result < 0) 0
+  result
+}
 
 }
